@@ -1,18 +1,27 @@
 # Crowd-Sourced EV Charging Network 🚗⚡
 
-### Overview  
-This project tackles one of the key challenges in EV adoption: the lack of accessible charging infrastructure. Our solution leverages crowd-sourcing to create a decentralized network of EV chargers, allowing users to find, book, and utilize charging points owned by individuals or small businesses.
+## Overview  
+This project aims to solve the accessibility gap in EV charging infrastructure by creating a crowd-sourced network of chargers. Contributors can register their chargers via our webpage, enabling EV users to locate and schedule charging sessions in the future.  
 
-### Features  
-- **Crowd Participation**: Users can register their chargers and earn by sharing.  
-- **Real-Time Tracking**: Locate nearby chargers using an interactive map.  
-- **Scheduling**: Pre-book charging slots to avoid waiting.  
-- **Sustainability**: Supports renewable energy-powered chargers like solar or wind-based systems.  
+## Current Status  
+- **Webpage**: A responsive site to raise awareness about the initiative and gather initial contributors via a Google Form.  
+- **Google Form**: Collects details of potential charger contributors.  
 
-### Technologies Used  
-- **Frontend**: [Flutter/React Native/HTML & CSS]  
-- **Backend**: [Node.js/Django/Flask]  
-- **Database**: [Firebase/PostgreSQL/MongoDB]  
+## Features Under Development  
+- Real-time charger location tracking and scheduling.  
+- Integration with renewable energy-powered chargers.  
+- Incentive programs for contributors.  
 
-### Contribution  
-We welcome contributions! Feel free to fork the repo and create pull requests. Let’s build a greener future together! 🌱  
+## Technologies Used  
+- **Frontend**: HTML, CSS, JavaScript.  
+- **Backend**: Planned for future development.  
+- **Data Collection**: Google Forms for registration.  
+
+## Contributing  
+This is an ongoing project, and we welcome feedback or contributions. Future plans include app development using **Flutter** or **React Native**. Feel free to fork the repo and suggest improvements.  
+
+## Vision  
+We envision this platform as a step toward making EVs viable for everyone by promoting sustainability, accessibility, and community participation.  
+
+---
+© Team Respawn | All Rights Reserved  
